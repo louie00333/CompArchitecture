@@ -1,0 +1,18 @@
+L 0,8 243 miss
+L 80,8 486 miss
+L 100,6 729 miss
+L 0,8 972 miss
+S 180,5 1215 miss
+L 100,2 1228 hit
+L 80,8 1241 hit
+M 180,6 2751 hit miss
+L 100,8 1510 hit
+S 100,5 1523 hit
+S 180,8 1536 hit
+L 80,8 1549 hit
+M 0,8 3367 hit miss
+M 0,4 4339 miss miss
+L 280,4 2534 miss
+M 80,8 5797 miss miss
+Hits: 5 Misses: 7 Evictions: 2
+Cycles: 3020
