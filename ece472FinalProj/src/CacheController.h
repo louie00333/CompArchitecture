@@ -52,6 +52,7 @@ class CacheController {
 		// compute the number of clock cycles used to complete a memory access
 		void updateCycles(CacheResponse*, bool);
 
+
 	public:
 		CacheController(ConfigInfo, char *);
 		void runTracefile();
